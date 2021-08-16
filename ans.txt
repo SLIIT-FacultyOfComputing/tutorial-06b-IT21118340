@@ -1,0 +1,4 @@
+
+StudentId	: 1212
+
+Name	: Amalinga
